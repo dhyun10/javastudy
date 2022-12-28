@@ -4,4 +4,3 @@
 ---
 
 - JAVA의 정석
-- Effective JAVA
